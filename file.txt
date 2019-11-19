@@ -1,3 +1,27 @@
-Git a is a version control system.
-hello world
-how are you?
+Connection package as low-level abstraction across multiple Redis drivers(Lettuce and Jedis).
+
+Exception translation to Spring’s portable Data Access exception hierarchy for Redis driver exceptions.
+
+RedisTemplate that provides a high-level abstraction for performing various Redis operations, exception translation and serialization support.
+
+Pubsub support (such as a MessageListenerContainer for message-driven POJOs).
+
+Redis Sentinel and Redis Cluster support.
+
+Reactive API using the Lettuce driver.
+
+JDK, String, JSON and Spring Object/XML mapping serializers.
+
+JDK Collection implementations on top of Redis.
+
+Atomic counter support classes.
+
+Sorting and Pipelining functionality.
+
+Dedicated support for SORT, SORT/GET pattern and returned bulk values.
+
+Redis implementation for Spring 3.1 cache abstraction.
+
+Automatic implementation of Repository interfaces including support for custom query methods using @EnableRedisRepositories.
+
+CDI support for repositories.
