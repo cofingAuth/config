@@ -26,4 +26,6 @@ Automatic implementation of Repository interfaces including support for custom q
 
 CDI support for repositories.
 
-test branch
+public void getName(){
+	return "wqq";
+}
