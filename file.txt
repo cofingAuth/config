@@ -27,5 +27,5 @@ Automatic implementation of Repository interfaces including support for custom q
 CDI support for repositories.
 
 public String getName(String name){
-	return name;
+	return name + ":pretty";
 }
