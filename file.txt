@@ -25,3 +25,5 @@ Redis implementation for Spring 3.1 cache abstraction.
 Automatic implementation of Repository interfaces including support for custom query methods using @EnableRedisRepositories.
 
 CDI support for repositories.
+
+test branch
