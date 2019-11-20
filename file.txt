@@ -27,8 +27,7 @@ Automatic implementation of Repository interfaces including support for custom q
 CDI support for repositories.
 
 public String getName(String name){
-	String myName = name;
 	return name + ":pretty";
 }
 
-System.out.println();
+System.out.println("hello world");
