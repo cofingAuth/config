@@ -31,4 +31,4 @@ public String getName(String name){
 	return name + ":pretty";
 }
 
-System.out.println();
+System.out.println("hello world");
